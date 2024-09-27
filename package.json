@@ -1,0 +1,20 @@
+{
+  "name": "@balancer-team/nextform",
+  "version": "0.0.1",
+  "description": "Nextform JavaScript Client and Utilities",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "node --require ts-node/register --test test/*.test.ts"
+  },
+  "author": "Alan Hettinger",
+  "license": "MIT",
+  "dependencies": {
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.2"
+  }
+}
