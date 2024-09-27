@@ -9,6 +9,16 @@
   },
   "author": "Alan Hettinger",
   "license": "MIT",
+  "repository": "github:balancer-team/nextform-js",
+  "homepage": "https://nextform.app",
+  "keywords": [
+    "tax form",
+    "W-9",
+    "W-8BEN",
+    "W-8BEN-E",
+    "irs",
+    "kyc"
+  ],
   "dependencies": {
     "zod": "^3.23.8"
   },
