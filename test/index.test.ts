@@ -13,6 +13,5 @@ test('Create session with form type only', async () => {
     formType: 'w9',
   })
   assert.ok(data)
-  console.log(data)
   assert.strictEqual(data.formType, 'w9Mar2024')
 })
